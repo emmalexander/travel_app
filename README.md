@@ -1,16 +1,14 @@
 # travel_app
 
-A new Flutter project.
+Discover the different locations of the world and various 
+information about these locations and the ratings by past visitors.
 
-## Getting Started
+A Project Made with Flutter.
 
-This project is a starting point for a Flutter application.
+State management - [Bloc](https://pub.dev/packages/bloc)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Packages Used
+- [Font Awesome](https://pub.dev/packages/font_awesome_flutter)
+- [Bloc](https://pub.dev/packages/bloc)
+- [Equatable](https://pub.dev/packages/equatable)
+- [Http](https://pub.dev/packages/http)
